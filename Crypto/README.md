@@ -11,7 +11,7 @@ UMH18{2EBG13or5gp1cu3e}
 ## Риил Крипто (30pts**
 
 H8ydw_1Z1{rp0_471mrlUc7740}
-> Hint! Төмөр зам + Хашаа
+> Hint! Төмөр зам + Хашаа  
 > **By W01f**
 
 ## Alice and Bob Part 1 (30pts**
@@ -20,7 +20,7 @@ flag format HZU18{answer}
 n : 1007
 e : 5
 c : 436
-> Hint! Simle RSA https://imgur.com/a/lnJzSXa
+> Hint! Simle RSA https://imgur.com/a/lnJzSXa  
 > **By Ds3c**
 
 ## New crypto (50pts**
